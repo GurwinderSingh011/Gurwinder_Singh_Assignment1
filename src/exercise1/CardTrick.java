@@ -46,13 +46,12 @@ public class CardTrick {
         if (found) {
             printInfo();
         } else {
-            System.out.println("Sorry, your guess was incorrect.");
+            System.out.println("Sorry your guess was incorrect.");
         }
     }
 
     /**
-     * A simple method to print out personal information. Follow the instructions to
-     * replace this information with your own.
+     * A simple method to print out personal information.
      * @author Gurwinder Singh
      * @date Jan 26, 2024
      */
@@ -72,7 +71,7 @@ public class CardTrick {
         System.out.println("My hobbies:");
         System.out.println("-- Coding and exploring new technologies");
         System.out.println("-- Reading books on various subjects");
-        System.out.println("-- Playing musical instruments");
+        System.out.println("-- Playing vidoe games");
 
         System.out.println();
     }
