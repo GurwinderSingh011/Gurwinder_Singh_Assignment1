@@ -56,6 +56,7 @@ public class CardTrick {
      * @date Jan 26, 2024
      */
     private static void printInfo() {
+          System.out.println("i am on step 6.");
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
 
